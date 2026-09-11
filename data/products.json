@@ -1,0 +1,274 @@
+{
+  "products": [
+    {
+      "id": "prd-cbl-1.5",
+      "name": "Cable, 1.5mm\u00b2",
+      "unit": "per 100m roll",
+      "price": 320,
+      "desc": null,
+      "icon": "coil",
+      "photo": "images/prd-cbl-1.5.jpg",
+      "cat": "cables"
+    },
+    {
+      "id": "prd-cbl-2.5",
+      "name": "Cable, 2.5mm\u00b2",
+      "unit": "per 100m roll",
+      "price": 450,
+      "desc": null,
+      "icon": "coil",
+      "photo": "images/prd-cbl-2.5.jpg",
+      "cat": "cables"
+    },
+    {
+      "id": "prd-cbl-4",
+      "name": "Cable, 4mm\u00b2",
+      "unit": "per 100m roll",
+      "price": 800,
+      "desc": null,
+      "icon": "coil",
+      "photo": null,
+      "cat": "cables"
+    },
+    {
+      "id": "prd-cbl-6",
+      "name": "Cable, 6mm\u00b2",
+      "unit": "per 100m roll",
+      "price": 1100,
+      "desc": null,
+      "icon": "coil",
+      "photo": null,
+      "cat": "cables"
+    },
+    {
+      "id": "prd-cbl-10",
+      "name": "Cable, 10mm\u00b2",
+      "unit": "per 100m roll",
+      "price": 2200,
+      "desc": null,
+      "icon": "coil",
+      "photo": null,
+      "cat": "cables"
+    },
+    {
+      "id": "prd-cbl-16",
+      "name": "Cable, 16mm\u00b2",
+      "unit": "per 100m roll",
+      "price": 2800,
+      "desc": null,
+      "icon": "coil",
+      "photo": null,
+      "cat": "cables"
+    },
+    {
+      "id": "prd-mcb-16",
+      "name": "MCB circuit breaker, 16A",
+      "unit": "each",
+      "price": 65,
+      "desc": null,
+      "icon": "breaker",
+      "photo": null,
+      "cat": "protection"
+    },
+    {
+      "id": "prd-mcb-32",
+      "name": "MCB circuit breaker, 32A",
+      "unit": "each",
+      "price": 75,
+      "desc": null,
+      "icon": "breaker",
+      "photo": null,
+      "cat": "protection"
+    },
+    {
+      "id": "prd-elcb",
+      "name": "ELCB / earth leakage breaker",
+      "unit": "each",
+      "price": 180,
+      "desc": null,
+      "icon": "breaker",
+      "photo": null,
+      "cat": "protection"
+    },
+    {
+      "id": "prd-db-8",
+      "name": "Distribution board, 8-way",
+      "unit": "each",
+      "price": 420,
+      "desc": null,
+      "icon": "board",
+      "photo": null,
+      "cat": "protection"
+    },
+    {
+      "id": "prd-db-12",
+      "name": "Distribution board, 12-way",
+      "unit": "each",
+      "price": 560,
+      "desc": null,
+      "icon": "board",
+      "photo": null,
+      "cat": "protection"
+    },
+    {
+      "id": "prd-main-switch-4way",
+      "name": "4-way distribution board",
+      "unit": "each",
+      "price": 400,
+      "desc": null,
+      "icon": "board",
+      "photo": "images/prd-main-switch-4way.jpg",
+      "cat": "protection"
+    },
+    {
+      "id": "prd-switch-1",
+      "name": "1-gang light switch",
+      "unit": "each",
+      "price": 30,
+      "desc": null,
+      "icon": "switch",
+      "photo": "images/prd-switch-1.jpg",
+      "cat": "fittings"
+    },
+    {
+      "id": "prd-switch-2",
+      "name": "2-gang light switch",
+      "unit": "each",
+      "price": 38,
+      "desc": null,
+      "icon": "switch",
+      "photo": null,
+      "cat": "fittings"
+    },
+    {
+      "id": "prd-switch-2gang-2way",
+      "name": "2-gang 2-way switch (TEKLED)",
+      "unit": "each",
+      "price": 32,
+      "desc": null,
+      "icon": "switch",
+      "photo": "images/prd-switch-2gang-2way.jpg",
+      "cat": "fittings"
+    },
+    {
+      "id": "prd-switch-4gang-2way",
+      "name": "4-gang 2-way switch (TEKLED)",
+      "unit": "each",
+      "price": 47,
+      "desc": null,
+      "icon": "switch",
+      "photo": "images/prd-switch-4gang-2way.jpg",
+      "cat": "fittings"
+    },
+    {
+      "id": "prd-socket-13",
+      "name": "13A wall socket",
+      "unit": "each",
+      "price": 40,
+      "desc": null,
+      "icon": "socket",
+      "photo": null,
+      "cat": "fittings"
+    },
+    {
+      "id": "prd-socket-twin",
+      "name": "Twin switched socket, 2-gang (with indicator)",
+      "unit": "each",
+      "price": 73,
+      "desc": null,
+      "icon": "socket",
+      "photo": "images/prd-socket-twin.jpg",
+      "cat": "fittings"
+    },
+    {
+      "id": "prd-socket-out",
+      "name": "Weatherproof outdoor socket",
+      "unit": "each",
+      "price": 95,
+      "desc": null,
+      "icon": "socket",
+      "photo": null,
+      "cat": "fittings"
+    },
+    {
+      "id": "prd-conduit",
+      "name": "PVC conduit pipe, 20mm",
+      "unit": "per 3m length",
+      "price": 22,
+      "desc": null,
+      "icon": "pipe",
+      "photo": null,
+      "cat": "fittings"
+    },
+    {
+      "id": "prd-bulb-led",
+      "name": "LED bulb, 9W",
+      "unit": "each",
+      "price": 18,
+      "desc": null,
+      "icon": "bulb",
+      "photo": null,
+      "cat": "lighting"
+    },
+    {
+      "id": "prd-panel-light",
+      "name": "LED panel light, 18W (Daylight)",
+      "unit": "each",
+      "price": 75,
+      "desc": null,
+      "icon": "bulb",
+      "photo": "images/prd-panel-light.jpg",
+      "cat": "lighting"
+    },
+    {
+      "id": "prd-panel-light-15w",
+      "name": "LED glass panel light, 15W",
+      "unit": "each",
+      "price": 65,
+      "desc": null,
+      "icon": "bulb",
+      "photo": "images/prd-panel-light-15w.jpg",
+      "cat": "lighting"
+    },
+    {
+      "id": "prd-batten",
+      "name": "LED batten light, 18W",
+      "unit": "each",
+      "price": 85,
+      "desc": null,
+      "icon": "bulb",
+      "photo": null,
+      "cat": "lighting"
+    },
+    {
+      "id": "prd-floodlight",
+      "name": "LED floodlight, 500W",
+      "unit": "each",
+      "price": 350,
+      "desc": null,
+      "icon": "bulb",
+      "photo": "images/prd-floodlight.jpg",
+      "cat": "lighting"
+    },
+    {
+      "id": "prd-fan-crompton",
+      "name": "Crompton Aura ceiling fan, 1400mm",
+      "unit": "each",
+      "price": 500,
+      "desc": null,
+      "icon": "fan",
+      "photo": "images/prd-fan-crompton.jpg",
+      "cat": "fans"
+    },
+    {
+      "id": "prd-battery-solar",
+      "name": "Solar deep cycle gel battery, 12V 200Ah",
+      "unit": "each",
+      "price": 5500,
+      "desc": null,
+      "icon": "battery",
+      "photo": "images/prd-battery-solar.jpg",
+      "cat": "batteries"
+    }
+  ]
+}

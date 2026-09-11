@@ -1,0 +1,59 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images"
+public_folder: "/images"
+
+collections:
+  - name: "services"
+    label: "Services"
+    files:
+      - name: "services"
+        label: "Services list"
+        file: "data/services.json"
+        fields:
+          - name: "services"
+            label: "Services"
+            widget: "list"
+            summary: "{{fields.name}} — ₵{{fields.price}}"
+            fields:
+              - { label: "ID (don't change once created)", name: "id", widget: "string" }
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Unit (e.g. fixed, per room, from)", name: "unit", widget: "string" }
+              - { label: "Price (GHS)", name: "price", widget: "number", value_type: "int" }
+              - { label: "Description", name: "desc", widget: "text", required: false }
+              - { label: "Photo", name: "photo", widget: "image", required: false }
+              - label: "Icon (used only if no photo)"
+                name: "icon"
+                widget: "select"
+                default: "bolt"
+                options: ["bolt", "house", "wrench", "generator", "sun", "camera", "gate", "bulb"]
+
+  - name: "products"
+    label: "Products"
+    files:
+      - name: "products"
+        label: "Products list"
+        file: "data/products.json"
+        fields:
+          - name: "products"
+            label: "Products"
+            widget: "list"
+            summary: "{{fields.name}} — ₵{{fields.price}}"
+            fields:
+              - { label: "ID (don't change once created)", name: "id", widget: "string" }
+              - label: "Category"
+                name: "cat"
+                widget: "select"
+                options: ["cables", "protection", "fittings", "lighting", "fans", "batteries"]
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Unit (e.g. each, per 100m roll)", name: "unit", widget: "string" }
+              - { label: "Price (GHS)", name: "price", widget: "number", value_type: "int" }
+              - { label: "Description", name: "desc", widget: "text", required: false }
+              - { label: "Photo", name: "photo", widget: "image", required: false }
+              - label: "Icon (used only if no photo)"
+                name: "icon"
+                widget: "select"
+                default: "bulb"
+                options: ["coil", "breaker", "board", "switch", "socket", "pipe", "bulb", "fan", "battery"]

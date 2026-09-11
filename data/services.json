@@ -1,0 +1,76 @@
+{
+  "services": [
+    {
+      "id": "svc-newwire",
+      "name": "New wiring installation",
+      "unit": "per room, from",
+      "price": 600,
+      "desc": "First-fix and second-fix wiring for a new room, including sockets, switches and lighting points.",
+      "icon": "bolt",
+      "photo": "images/svc-newwire.jpg"
+    },
+    {
+      "id": "svc-rewire",
+      "name": "Full house rewiring",
+      "unit": "per home, from",
+      "price": 10000,
+      "desc": "Complete strip-out and rewire for older homes \u2014 new cabling, distribution board and safety certificate.",
+      "icon": "house",
+      "photo": "images/svc-rewire.jpg"
+    },
+    {
+      "id": "svc-profile-lighting",
+      "name": "Staircase / Profile lighting",
+      "unit": "fixed",
+      "price": 4000,
+      "desc": "Recessed LED profile lighting along staircases, skirting or ceiling steps for a modern finish.",
+      "icon": "bulb",
+      "photo": "images/svc-profile-lighting.jpg"
+    },
+    {
+      "id": "svc-repair",
+      "name": "House repair wiring / call-out",
+      "unit": "per visit, from",
+      "price": 350,
+      "desc": "Tripping breakers, dead sockets, faulty switches and other fault-finding and repairs.",
+      "icon": "wrench",
+      "photo": "images/svc-repair.jpg"
+    },
+    {
+      "id": "svc-generator",
+      "name": "Generator installation",
+      "unit": "from",
+      "price": 2500,
+      "desc": "Standby generator wiring with automatic transfer switch, sized to your home or office load.",
+      "icon": "generator",
+      "photo": "images/svc-generator.jpg"
+    },
+    {
+      "id": "svc-solar",
+      "name": "Domestic solar installation",
+      "unit": "fixed",
+      "price": 10000,
+      "desc": "Panels, inverter and battery setup sized for household backup power.",
+      "icon": "sun",
+      "photo": "images/svc-solar.jpg"
+    },
+    {
+      "id": "svc-cctv",
+      "name": "CCTV camera installation",
+      "unit": "fixed",
+      "price": 5000,
+      "desc": "Camera setup with remote viewing for home or business security.",
+      "icon": "camera",
+      "photo": "images/svc-cctv.jpg"
+    },
+    {
+      "id": "svc-gate",
+      "name": "Automated main gate",
+      "unit": "fixed",
+      "price": 3500,
+      "desc": "Motorised gate installation with remote control access.",
+      "icon": "gate",
+      "photo": null
+    }
+  ]
+}
