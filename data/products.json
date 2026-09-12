@@ -269,6 +269,15 @@
       "icon": "battery",
       "photo": "images/prd-battery-solar.jpg",
       "cat": "batteries"
+    },
+    {
+      "icon": "bulb",
+      "cat": "cables",
+      "name": "0.75mm2  3 core",
+      "id": "prd-cbl-0.75",
+      "unit": "100m",
+      "price": 800,
+      "desc": "3 core 0.75 mm cable,"
     }
   ]
 }
