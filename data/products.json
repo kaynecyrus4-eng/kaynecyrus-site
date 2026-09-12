@@ -278,6 +278,16 @@
       "unit": "100m",
       "price": 800,
       "desc": "3 core 0.75 mm cable,"
+    },
+    {
+      "icon": "bulb",
+      "id": "Led strip 01",
+      "cat": "lighting",
+      "name": "waterproof led strip light.",
+      "price": 2000,
+      "unit": "100m",
+      "desc": "waterproof led strip light, suitable for both outdoor and indoor usage for\nshops, Pubs, and other related public or private spaces,",
+      "photo": "/images/screenshot_20260908_154411_jumia-1-.jpg"
     }
   ]
 }
