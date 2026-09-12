@@ -13,8 +13,8 @@
       "id": "svc-rewire",
       "name": "Full house rewiring",
       "unit": "per home, from",
-      "price": 10000,
-      "desc": "Complete strip-out and rewire for older homes \u2014 new cabling, distribution board and safety certificate.",
+      "price": 8000,
+      "desc": "Complete strip-out and rewire for older homes — new cabling, distribution board and safety certificate.",
       "icon": "house",
       "photo": "images/svc-rewire.jpg"
     },
