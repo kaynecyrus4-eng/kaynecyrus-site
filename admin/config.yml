@@ -1,5 +1,7 @@
+
 backend:
-  name: git-gateway
+  name: github
+  repo: kaynecyrus4-eng/kaynecyrus-site
   branch: main
 
 media_folder: "images"
