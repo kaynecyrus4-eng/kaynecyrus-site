@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "prd-cbl-1.5",
-      "name": "Cable, 1.5mm\u00b2",
+      "name": "Cable, 1.5mm²",
       "unit": "per 100m roll",
       "price": 320,
       "desc": null,
@@ -12,7 +12,7 @@
     },
     {
       "id": "prd-cbl-2.5",
-      "name": "Cable, 2.5mm\u00b2",
+      "name": "Cable, 2.5mm²",
       "unit": "per 100m roll",
       "price": 450,
       "desc": null,
@@ -22,7 +22,7 @@
     },
     {
       "id": "prd-cbl-4",
-      "name": "Cable, 4mm\u00b2",
+      "name": "Cable, 4mm²",
       "unit": "per 100m roll",
       "price": 800,
       "desc": null,
@@ -32,7 +32,7 @@
     },
     {
       "id": "prd-cbl-6",
-      "name": "Cable, 6mm\u00b2",
+      "name": "Cable, 6mm²",
       "unit": "per 100m roll",
       "price": 1100,
       "desc": null,
@@ -42,7 +42,7 @@
     },
     {
       "id": "prd-cbl-10",
-      "name": "Cable, 10mm\u00b2",
+      "name": "Cable, 10mm²",
       "unit": "per 100m roll",
       "price": 2200,
       "desc": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "prd-cbl-16",
-      "name": "Cable, 16mm\u00b2",
+      "name": "Cable, 16mm²",
       "unit": "per 100m roll",
       "price": 2800,
       "desc": null,
@@ -64,10 +64,10 @@
       "id": "prd-mcb-16",
       "name": "MCB circuit breaker, 16A",
       "unit": "each",
-      "price": 65,
+      "price": 40,
       "desc": null,
       "icon": "breaker",
-      "photo": null,
+      "photo": "/images/screenshot_20260908_151227_samsung_browser-1-.jpg",
       "cat": "protection"
     },
     {
