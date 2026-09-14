@@ -7,17 +7,17 @@
       "price": 320,
       "desc": null,
       "icon": "coil",
-      "photo": "images/prd-cbl-1.5.jpg",
+      "photo": "/images/screenshot_20260914_124619_google-1-.jpg",
       "cat": "cables"
     },
     {
-      "id": "prd-cbl-2.5",
+      "id": "prd-cbl-2.5 nexans cable metal",
       "name": "Cable, 2.5mm²",
       "unit": "per 100m roll",
       "price": 450,
       "desc": null,
       "icon": "coil",
-      "photo": "images/prd-cbl-2.5.jpg",
+      "photo": "/images/screenshot_20260914_124642_google-1-.jpg",
       "cat": "cables"
     },
     {
@@ -27,7 +27,7 @@
       "price": 800,
       "desc": null,
       "icon": "coil",
-      "photo": null,
+      "photo": "/images/screenshot_20260914_124619_google-1-.jpg",
       "cat": "cables"
     },
     {
@@ -37,7 +37,7 @@
       "price": 1100,
       "desc": null,
       "icon": "coil",
-      "photo": null,
+      "photo": "/images/screenshot_20260914_124536_google-1-.jpg",
       "cat": "cables"
     },
     {
@@ -47,7 +47,7 @@
       "price": 2200,
       "desc": null,
       "icon": "coil",
-      "photo": null,
+      "photo": "/images/screenshot_20260914_124556_google-1-.jpg",
       "cat": "cables"
     },
     {
@@ -57,7 +57,7 @@
       "price": 2800,
       "desc": null,
       "icon": "coil",
-      "photo": null,
+      "photo": "/images/screenshot_20260914_124556_google-1-.jpg",
       "cat": "cables"
     },
     {
@@ -77,7 +77,7 @@
       "price": 75,
       "desc": null,
       "icon": "breaker",
-      "photo": null,
+      "photo": "/images/screenshot_20260914_125327_google-1-.jpg",
       "cat": "protection"
     },
     {
@@ -277,7 +277,8 @@
       "id": "prd-cbl-0.75",
       "unit": "100m",
       "price": 800,
-      "desc": "3 core 0.75 mm cable,"
+      "desc": "3 core 0.75 mm cable,",
+      "photo": "/images/screenshot_20260914_113220_chrome-1-.jpg"
     },
     {
       "icon": "bulb",
@@ -296,7 +297,8 @@
       "name": "modern surface external ",
       "unit": "surface mount",
       "price": 189,
-      "desc": "Modern surface spot light, comes with white and warm, colors to keep your spot illuminated\n"
+      "desc": "Modern surface spot light, comes with white and warm, colors to keep your spot illuminated, Internal uses\n",
+      "photo": "/images/screenshot_20260914_121638_jumia-1-.jpg"
     },
     {
       "icon": "bulb",
@@ -305,16 +307,28 @@
       "unit": "pendant deco light",
       "price": 700,
       "desc": "A modern pendant light suitable for your indoor, couch and mini hall.",
-      "name": "Deco pendant light."
+      "name": "Deco pendant light.",
+      "photo": "/images/screenshot_20260914_121751_jumia-1-.jpg"
     },
     {
       "icon": "bulb",
       "cat": "lighting",
       "id": "External light. -02",
-      "name": "External wall light",
+      "name": "water proof external wall light",
       "unit": "external surface mount",
       "price": 150,
-      "desc": "Modern external upstand surface mount light."
+      "desc": "Modern external upstand surface mount light.",
+      "photo": "/images/screenshot_20260914_120823_google-1-.jpg"
+    },
+    {
+      "icon": "bulb",
+      "id": "external split beam wall light",
+      "cat": "lighting",
+      "name": "External split beam wall light",
+      "unit": "wall light",
+      "price": 140,
+      "desc": "split beam external light",
+      "photo": "/images/screenshot_20260914_120915_jumia-1-.jpg"
     }
   ]
 }
