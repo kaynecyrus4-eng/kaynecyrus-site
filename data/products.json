@@ -288,6 +288,33 @@
       "unit": "100m",
       "desc": "waterproof led strip light, suitable for both outdoor and indoor usage for\nshops, Pubs, and other related public or private spaces,",
       "photo": "/images/screenshot_20260908_154411_jumia-1-.jpg"
+    },
+    {
+      "icon": "bulb",
+      "id": "external lightning-01",
+      "cat": "lighting",
+      "name": "modern surface external ",
+      "unit": "surface mount",
+      "price": 189,
+      "desc": "Modern surface spot light, comes with white and warm, colors to keep your spot illuminated\n"
+    },
+    {
+      "icon": "bulb",
+      "id": "modern internal pendant light -04",
+      "cat": "lighting",
+      "unit": "pendant deco light",
+      "price": 700,
+      "desc": "A modern pendant light suitable for your indoor, couch and mini hall.",
+      "name": "Deco pendant light."
+    },
+    {
+      "icon": "bulb",
+      "cat": "lighting",
+      "id": "External light. -02",
+      "name": "External wall light",
+      "unit": "external surface mount",
+      "price": 150,
+      "desc": "Modern external upstand surface mount light."
     }
   ]
 }
